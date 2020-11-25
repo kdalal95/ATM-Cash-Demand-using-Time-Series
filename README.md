@@ -1,5 +1,7 @@
 # Cash demand forecasting of ATMs
 
+#### • Do ⭐ the repository if it helped you in anyway.
+
 ## Scope of problem:
 
 ATMs filled with large amounts of cash may bring low transport/logistic cost but high freezing & high insurance cost. 
